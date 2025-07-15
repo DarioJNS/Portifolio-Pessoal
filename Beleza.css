@@ -1,0 +1,23 @@
+p, h2{
+    text-align: center;
+}
+.Conteiner{
+    margin: auto;
+    padding: auto;
+    border: solid 3px;
+    border-radius: 60px 10px;
+}
+#Tabela {
+    margin: 0 auto;
+    padding: 70pix;
+    border:2px solid black;
+    text-align: center;
+    background-color: rgb(150, 150, 255);
+    width: 20px;
+    height: 20px;
+}
+
+#a {
+    margin: 20px;
+    padding: 5%;
+}
